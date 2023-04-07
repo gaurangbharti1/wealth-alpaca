@@ -1,0 +1,5 @@
+openai
+pandas
+python >= 3.9
+fire
+gradio

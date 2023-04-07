@@ -1,0 +1,26 @@
+Come up with a set of 3 question and answer pairs given the following prompt and context. 
+The question answer pairs should be in the language of a client asking their wealth advisor questions
+
+Here are the requirements:
+1. Do not repeat question and answer pairs.
+2. The language used for the questions should be diverse and preferably simple.
+3. The question and answer pairs should be in English.
+4. The question should be 1 to 2 sentences long, the answer should be 1 to 4 sentences long. 
+5. The answer must be a factual response to the question.
+6. Do not include any names or questions about people. ex. "Q: Who is Sam Altman?".
+7. The questions and answers must be about finance or economics.
+8. Do not ask questions that refer to the website or document itself. ex. "Q: What is the purpose of this document?" 
+9. Do not ask questions about specific companies. ex. "Q: What is the importance of proxy voting for RBC Global Asset Management?"
+10. The questions and answers should have no lines breaks ex. "Q: how \n tall is he?" should be "Q: how tall is he?"
+
+context = {}
+
+List the question and answer pairs in the following format:
+Q: 
+A:
+
+Q:
+A: 
+
+
+List 5 question and answer pairs
